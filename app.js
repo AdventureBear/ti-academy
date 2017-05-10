@@ -35,7 +35,7 @@ var getOptions = {
 }
 
 
-request(postOptions, function (error, response, body) {
+req(postOptions, function (error, response, body) {
   if (error) throw new Error(error);
   console.log("Post Response: ", response);
   //console.log(body);
