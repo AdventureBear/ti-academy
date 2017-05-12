@@ -1,4 +1,6 @@
-/node_modules
+node_modules
+.env
+.ignore
 
 # Created by .ignore support plugin (hsz.mobi)
 ### JetBrains template

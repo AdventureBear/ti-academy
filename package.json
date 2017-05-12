@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^4.0.0",
+    "md5": "^2.2.1",
     "request": "^2.81.0"
   }
 }
